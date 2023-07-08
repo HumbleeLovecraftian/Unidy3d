@@ -7,7 +7,7 @@ public class mov : MonoBehaviour
   // Start is called before the first frame update
   void Start()
   {
-    /* dasdasda */
+    /* aaaa */
   }
 
   // Update is called once per frame
